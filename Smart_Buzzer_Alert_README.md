@@ -66,12 +66,6 @@ This project is designed to enhance environmental awareness and safety by using 
 
 ---
 
-## 👨‍🏫 Supervisor
-
-- Eng. Muhammed Mostafa
-
----
-
 ## 📂 Project Files
 
 - `buzzer_alert.ino` – Arduino sketch
