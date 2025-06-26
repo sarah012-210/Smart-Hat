@@ -72,3 +72,13 @@ This project is designed to enhance environmental awareness and safety by using 
 - `README.md` – This documentation
 
 > 💡 You can modify `THRESHOLD` or tone frequencies to calibrate sensitivity or response levels.
+
+---
+
+## 📄 Check Our Report
+
+You can view the full project report for detailed design explanations, testing results, and component analysis:
+
+👉 **[Project Report](https://drive.google.com/file/d/1kGEEbBT1f-rCB7Xj0AUTupRD9qE-2D97/view?usp=drivesdk)**
+
+
